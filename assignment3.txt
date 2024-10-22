@@ -1,0 +1,1000 @@
+ 1082  ls
+ 1083  make run
+ 1084  sudo apt install qemu-system-arm
+ 1085  sudo apt update
+ 1086  vim ~/.bashrc
+ 1087  git add .
+ 1088  git commit -m "changes in menu driven by mistake didnt change led colour"
+ 1089  git push
+ 1090  sudo minicom
+ 1091  git pull
+ 1092  vim collatz.s
+ 1093  git pull
+ 1094  git add .
+ 1095  git commit -m "adc assignment"
+ 1096  git push
+ 1097  git add .
+ 1098  git commit -m "ADC LED blinking assignment"
+ 1099  git push
+ 1100  vim asmbly.s
+ 1101  vi Makefile
+ 1102  make
+ 1103  vim asmbly.s
+ 1104  make
+ 1105  make run
+ 1106  vim bl.s
+ 1107  vim Makefile
+ 1108  make
+ 1109  make run
+ 1110  vim thumb2.s
+ 1111  vim Makefile
+ 1112  make
+ 1113  make run
+ 1114  make debug
+ 1115  make stop
+ 1116  make debug
+ 1117  make stop
+ 1118  mkdir dsp
+ 1119  git pull
+ 1120  mkdir DSP
+ 1121  ls
+ 1122  rm dsp
+ 1123  rmdir dsp
+ 1124  mkdir dsa
+ 1125  git clone "https://github.com/sunbeam-desd-aug24/dsa.git"
+ 1126  sudo apt update
+ 1127  sudo apt install snap
+ 1128  sudo snap install --classic code
+ 1129  vim malloc.c
+ 1130  gcc malloc.c 
+ 1131  ./a.out
+ 1132  vim calloc.c
+ 1133  gcc linear_search.c
+ 1134  .\a.exe
+ 1135  ./a.exe
+ 1136  ./a.out
+ 1137  cls
+ 1138  clear
+ 1139  gcc binary_search.c
+ 1140  ./a.out
+ 1141  gcc binary_search.c
+ 1142  ./a.out
+ 1143  gcc binary_search.c
+ 1144  ./a.out
+ 1145  gcc binary_search.c
+ 1146  ./a.out
+ 1147  git pull
+ 1148  clear
+ 1149  gcc selection_sort.c
+ 1150  ./a.out
+ 1151  gcc selection_sort.c
+ 1152  ./a.out
+ 1153  gcc selection_sort.c
+ 1154  ./a.out
+ 1155  gcc selection_sort.c
+ 1156  ./a.out
+ 1157  gcc bubble_sort
+ 1158  gcc bubble_sort.c
+ 1159  ./a.out
+ 1160  gcc bubble_sort.c
+ 1161  ./a.out
+ 1162  gcc insertion_sort.c
+ 1163  ./a.out
+ 1164  clear
+ 1165  gcc linear_queue.c
+ 1166  ./a.out
+ 1167  gcc linear_queue.c
+ 1168  ./a.out
+ 1169  gcc linear_queue.c
+ 1170  ./a.out
+ 1171  gcc linear_queue.c
+ 1172  ./a.out
+ 1173  gcc linear_queue.c
+ 1174  ./a.out
+ 1175  git pull
+ 1176  gcc linear_queue.c
+ 1177  ./a.out
+ 1178  clear
+ 1179  gcc circular_queue.c
+ 1180  ./a.out
+ 1181  clear
+ 1182  gcc stack.c
+ 1183  ./a.out
+ 1184  gcc stack.c
+ 1185  ./a.out
+ 1186  clear
+ 1187  gcc stack_main.c stack.c
+ 1188  ./a.out
+ 1189  gcc postfix_evaluation.c
+ 1190  gcc postfix_evaluation.c
+ 1191  gcc postfix_evaluation.c stack.c
+ 1192  gcc postfix_evaluation.c stack.c -lm
+ 1193  ./a.out
+ 1194  clear
+ 1195  gcc prefix_evaluation.c
+ 1196  gcc prefix_evaluation.c stack.c -lm
+ 1197  ./a.out
+ 1198  clear
+ 1199  gcc infix_to_prefix.c stack.c
+ 1200  gcc infix_to_prefix.c stack.c -lm
+ 1201  clear
+ 1202  gcc linear_search.c
+ 1203  ./a.out
+ 1204  gcc linear_search_rec.c
+ 1205  ./a.out
+ 1206  gcc linear_search_rec.c
+ 1207  ./a.out
+ 1208  gcc linear_search_rec.c
+ 1209  ./a.out
+ 1210  gcc linear_search_rec.c
+ 1211  ./a.out
+ 1212  clear
+ 1213  gcc linear_search_rec.c
+ 1214  ./a.out
+ 1215  gcc linear_search_rec.c
+ 1216  ./a.out
+ 1217  gcc binary_search_recursion.c
+ 1218  ./a.out
+ 1219  gcc binary_search_recursion.c
+ 1220  ./a.out
+ 1221  gcc binary_search_recursion.c
+ 1222  ./a.out
+ 1223  git clone "https://github.com/Karishma-Ghadge/DSA_Assignments.git"
+ 1224  git add .
+ 1225  git commit -m "Assignment1 linear search and binary search using recursion and sorting student details using marks"
+ 1226  git push
+ 1227  clear
+ 1228  gcc sorting_student_details.c
+ 1229  ./a.out
+ 1230  gcc sorting_student_details.c
+ 1231  ./a.out
+ 1232  gcc sample.c
+ 1233  ./a.out
+ 1234  gcc sample.c
+ 1235  ./a.out
+ 1236  gcc sorting_student_details.c
+ 1237  ./a.out
+ 1238  clear
+ 1239  gcc linear_search_rec.c
+ 1240  ./a.out
+ 1241  git pull
+ 1242  clear
+ 1243  gcc SLLL.c
+ 1244  ./a.out
+ 1245  gcc SLLL.c
+ 1246  ./a.out
+ 1247  gcc SLLL.c
+ 1248  ./a.out
+ 1249  clear
+ 1250  gcc SCLL.c
+ 1251  ./a.out
+ 1252  gcc SCLL.c
+ 1253  ./a.out
+ 1254  gcc SCLL.c
+ 1255  ./a.out
+ 1256  gcc SLLL.c
+ 1257  ./a.out
+ 1258  gcc SLLL.c
+ 1259  ./a.out
+ 1260  gcc SCLL.c
+ 1261  ./a.out
+ 1262  gcc DLLL.c
+ 1263  ./a.out
+ 1264  git pull
+ 1265  gcc DCLL.c
+ 1266  ./a.out
+ 1267  gcc DCLL.c
+ 1268  ./a.out
+ 1269  clear
+ 1270  gcc DLLL.c
+ 1271  ./a.out
+ 1272  gcc DLLL.c
+ 1273  ./a.out
+ 1274  gcc DCLL.c
+ 1275  ./a.out
+ 1276  gcc DCLL.c
+ 1277  ./a.out
+ 1278  gcc DCLL.c
+ 1279  ./a.out
+ 1280  gcc DCLL.c
+ 1281  ./a.out
+ 1282  gcc DLLL.c
+ 1283  ./a.out
+ 1284  gcc DLLL.c
+ 1285  ./a.out
+ 1286  gcc DLLL.c
+ 1287  ./a.out
+ 1288  gcc DLLL.c
+ 1289  ./a.out
+ 1290  gcc DLLL.c
+ 1291  ./a.out
+ 1292  gcc DCLL.c
+ 1293  ./a.out
+ 1294  gcc DCLL.c
+ 1295  ./a.out
+ 1296  gcc DCLL.c
+ 1297  ./a.out
+ 1298  gcc SLLL.c
+ 1299  ./a.out
+ 1300  gcc SLLL.c
+ 1301  ./a.out
+ 1302  gcc SLLL.c
+ 1303  ./a.out
+ 1304  gcc SCLL.c
+ 1305  ./a.out
+ 1306  gcc DCLL.c
+ 1307  ./a.out
+ 1308  gcc DCLL.c
+ 1309  ./a.out
+ 1310  gcc DCLL.c
+ 1311  ./a.out
+ 1312  gcc DLLL.c
+ 1313  ./a.out
+ 1314  gcc DLLL.c
+ 1315  ./a.out
+ 1316  gcc DLLL.c
+ 1317  ./a.out
+ 1318  gcc DLLL.c
+ 1319  ./a.out
+ 1320  gcc SLLL.c
+ 1321  ./a.out
+ 1322  git pull
+ 1323  gcc DLLL.c
+ 1324  ./a.out
+ 1325  gcc DLLL.c
+ 1326  ./a.out
+ 1327  gcc SCLL.c
+ 1328  ./a.out
+ 1329  gcc SCLL.c
+ 1330  ./a.out
+ 1331  gcc SLLL.c
+ 1332  ./a.out
+ 1333  gcc SLLL.c
+ 1334  ./a.out
+ 1335  gcc DLLL.c
+ 1336  ./a.out
+ 1337  gcc SCLL.c
+ 1338  ./a.out
+ 1339  gcc SCLL.c
+ 1340  ./a.out
+ 1341  gcc SCLL.c
+ 1342  ./a.out
+ 1343  gcc SCLL.c
+ 1344  ./a.out
+ 1345  gcc SCLL.c
+ 1346  ./a.out
+ 1347  gcc SCLL.c
+ 1348  ./a.out
+ 1349  gcc SCLL.c
+ 1350  ./a.out
+ 1351  git pull
+ 1352  gcc DCLL.c
+ 1353  ./a.out
+ 1354  gcc DLLL.c
+ 1355  ./a.out
+ 1356  gcc DCLL.c
+ 1357  ./a.out
+ 1358  gcc DCLL.c
+ 1359  ./a.out
+ 1360  gcc DCLL.c
+ 1361  ./a.out
+ 1362  gcc DCLL.c
+ 1363  ./a.out
+ 1364  gcc DCLL.c
+ 1365  ./a.out
+ 1366  gcc DCLL.c
+ 1367  ./a.out
+ 1368  gcc DCLL.c
+ 1369  ./a.out
+ 1370  gcc BST.c
+ 1371  gcc BST.c stack_new.c queue.c 
+ 1372  ./a.out
+ 1373  clear
+ 1374  gcc BST.c stack_new.c queue.c 
+ 1375  ./a.out
+ 1376  gcc BST.c stack_new.c queue.c 
+ 1377  ./a.out
+ 1378  gcc BST.c stack_new.c queue.c 
+ 1379  ./a.out
+ 1380  gcc BST.c stack_new.c queue.c 
+ 1381  ./a.out
+ 1382  gcc BST.c stack_new.c queue.c 
+ 1383  ./a.out
+ 1384  gcc BST.c stack_new.c queue.c 
+ 1385  ./a.out
+ 1386  gcc BST.c stack_new.c queue.c 
+ 1387  ./a.out
+ 1388  gcc BST.c stack_new.c queue.c 
+ 1389  ./a.out
+ 1390  gcc DCLL.c
+ 1391  ./a.out
+ 1392  gcc DCLL.c
+ 1393  ./a.out
+ 1394  gcc DCLL.c
+ 1395  ./a.out
+ 1396  gcc DLLL.c
+ 1397  ./a.out
+ 1398  clear
+ 1399  gcc stack_with_linked_list.c
+ 1400  clear
+ 1401  gcc DCLL.c
+ 1402  ./a.out
+ 1403  gcc DCLL.c
+ 1404  ./a.out
+ 1405  gcc BST.c stack_new.c queue.c
+ 1406  ./a.out
+ 1407  gcc SCLL.c
+ 1408  ./a.out
+ 1409  gcc SCLL.c
+ 1410  ./a.out
+ 1411  gcc DLLL.c
+ 1412  ./a.out
+ 1413  clear
+ 1414  gcc DLLL.c
+ 1415  ./a.out
+ 1416  git push
+ 1417  clear
+ 1418  git push
+ 1419  git add .
+ 1420  git commit -m " selection bubble insertion"
+ 1421  git push
+ 1422  git add .
+ 1423  git commit -m "Assignment 2 reverse list, linear search,finding mid and selection sort"
+ 1424  git push
+ 1425  git pull
+ 1426  clear
+ 1427  gcc insertion.c
+ 1428  ./a.out
+ 1429  gcc selection.c
+ 1430  ./a.out
+ 1431  gcc bubble.c
+ 1432  ./a.out
+ 1433  clear
+ 1434  gcc selection_sort.c
+ 1435  ./a.out
+ 1436  clear
+ 1437  gcc quick_sort.c
+ 1438  ./a.out
+ 1439  gcc quick_sort.c
+ 1440  ./a.out
+ 1441  gcc quick_sort.c
+ 1442  ./a.out
+ 1443  clear
+ 1444  gcc heap.c
+ 1445  ./a.out
+ 1446  git pull
+ 1447  mkdir dsapractice
+ 1448  ls
+ 1449  gcc linear_search.c
+ 1450  clear
+ 1451  gcc linear_search.c
+ 1452  ./a.out
+ 1453  clear
+ 1454  gcc linear_search.c
+ 1455  ./a.out
+ 1456  gcc linear_search.c
+ 1457  ./a.out
+ 1458  clear
+ 1459  gcc binary_search.c
+ 1460  ./a.out
+ 1461  gcc binary_search.c
+ 1462  ./a.out
+ 1463  clear
+ 1464  gcc selection_sort.c
+ 1465  ./a.out
+ 1466  gcc selection_sort.c
+ 1467  ./a.out
+ 1468  gcc selection_sort.c
+ 1469  ./a.out
+ 1470  gcc selection_sort.c
+ 1471  ./a.out
+ 1472  gcc bubble_sort.c
+ 1473  ./a.out
+ 1474  gcc linear_search.c
+ 1475  ./a.out
+ 1476  git add .
+ 1477  git commit -m "changes in selection bubble and insertion sort"
+ 1478  git push
+ 1479  git add .
+ 1480  git commit -m "stack using LINked list and queue using Linked list"
+ 1481  git push
+ 1482  gcc insertion_sort.c
+ 1483  ./a.out
+ 1484  gcc insertion_sort.c
+ 1485  ./a.out
+ 1486  gcc insertion_sort.c
+ 1487  ./a.out
+ 1488  clear
+ 1489  gcc stack_main.c stack.c
+ 1490  ./a.out
+ 1491  gcc queue.c
+ 1492  gcc linear_queue.c
+ 1493  ./a.out
+ 1494  gcc circular_queue.c
+ 1495  ./a.out
+ 1496  gcc stack.c stack_main.c
+ 1497  ./a.out
+ 1498  gcc stack.c stack_main.c
+ 1499  ./a.out
+ 1500  gcc SLLL.c
+ 1501  clear
+ 1502  gcc SLLL.c
+ 1503  ./a.pout
+ 1504  ./a.out
+ 1505  gcc SLLL.c
+ 1506  ./a.out
+ 1507  gcc SLLL.c
+ 1508  ./a.out
+ 1509  gcc SLLL.c
+ 1510  ./a.out
+ 1511  gcc SCLL.c
+ 1512  clear
+ 1513  gcc SCLL.c
+ 1514  ./a.out
+ 1515  '/home/sunbeam/DSA/dsapractice/stack_using_LL.c'
+ 1516  gcc stack_using_LL.c
+ 1517  ./a.out
+ 1518  clear
+ 1519  gcc queue_using_LL.c
+ 1520  ./a.out
+ 1521  gcc insertion_sort.c
+ 1522  ./a.out
+ 1523  gcc insertion_sort.c
+ 1524  ./a.out
+ 1525  gcc lab.c
+ 1526  ./a.out
+ 1527  gcc lab.c
+ 1528  ./a.out
+ 1529  gcc lab.c queue.c
+ 1530  clear
+ 1531  gcc queue_main.c
+ 1532  clear
+ 1533  gcc queue_main.c
+ 1534  ./a.out
+ 1535  gcc queue_main.c
+ 1536  ./a.out
+ 1537  gcc queue_main.c
+ 1538  ./a.out
+ 1539  gcc queue_main.c queue.c
+ 1540  ./a.out
+ 1541  clear
+ 1542  gcc queue_main.c queue.c
+ 1543  ./a.out
+ 1544  gcc queue_main.c queue.c
+ 1545  ./a.out
+ 1546  mkdir EOS
+ 1547  mkdir day1
+ 1548  cd day1
+ 1549  cd .
+ 1550  pwd
+ 1551  rmdir day1/
+ 1552  rmdir day1
+ 1553  cd ..
+ 1554  rmdir day1
+ 1555  mkdir os_classwork
+ 1556  touch c.txt
+ 1557  cd os_classwork
+ 1558  touch os.txt
+ 1559  ls
+ 1560  cd ..
+ 1561  rm c.txt
+ 1562  cd os_classwork
+ 1563  ls
+ 1564  mkdir day1
+ 1565  cd day1
+ 1566  touch c.txt
+ 1567  cd ..
+ 1568  rm -r day1
+ 1569  ls
+ 1570  cd ..
+ 1571  ls
+ 1572  cd os_classwork
+ 1573  touch .eos.txt
+ 1574  ls
+ 1575  ls -l
+ 1576  ls -l -a
+ 1577  touch .eos.txt
+ 1578  ls -l -a
+ 1579  ls
+ 1580  ls -l
+ 1581  ls -l -h
+ 1582  mkdir two
+ 1583  ls -l -h
+ 1584  man ls
+ 1585  cat os.txt
+ 1586  cat > os.txt
+ 1587  cat  os.txt
+ 1588  cat >>os.txt
+ 1589  cat  os.txt
+ 1590  cd .
+ 1591  cd ..
+ 1592  cd /
+ 1593  cd ~
+ 1594  clear
+ 1595  cat > os.txt
+ 1596  cat os.txt
+ 1597  head os.txt 
+ 1598  head -5 os.txt
+ 1599  tail os.txt
+ 1600  sort os.txt
+ 1601  cat > os.txt
+ 1602  sort os.txt
+ 1603  sort -n os.txt
+ 1604  cat fruit.txt
+ 1605  cat > fruit.txt
+ 1606  uniq fruit.txt
+ 1607  clear
+ 1608  sort -n os.txt
+ 1609  sort -n < os.txt
+ 1610  bc
+ 1611  clear
+ 1612  cat > num.txt
+ 1613  rm num.txt
+ 1614  cat > num.txt
+ 1615  bc < num.txt 
+ 1616  factor 24
+ 1617  ls
+ 1618  cat fruit.txt
+ 1619  wc fruit.txt
+ 1620  wc < fruit.txt
+ 1621  wc -w fruit.txt
+ 1622  clear
+ 1623  sort fruit.txt
+ 1624  sort fruit.txt < out.txt
+ 1625  sort fruit.txt > out.txt
+ 1626  cat out.txt
+ 1627  ls -l
+ 1628  ls -l > out.txt
+ 1629  cat out.txt
+ 1630  cd EOS
+ 1631  cd os_classwork
+ 1632  ls
+ 1633  cat > os.txt
+ 1634  ls -W > out.txt
+ 1635  ls -W 2> out.txt
+ 1636  cat out.txt
+ 1637  ls 2>out.txt
+ 1638  ls 2> out.txt
+ 1639  cat out.txt
+ 1640  cat num.txt
+ 1641  cat > num.txt
+ 1642  cat num.txt
+ 1643  bc < num.txt > out.txt
+ 1644  cat out.txt
+ 1645  bc < num.txt > out.txt 2> err.txt
+ 1646  cat out.txt
+ 1647  cat err.txt
+ 1648  ac < num.txt > out.txt 2> err.txt
+ 1649  cat err.txt
+ 1650  sort fruit.txt
+ 1651  cat >fruit.txt
+ 1652  uniq fruit.txt
+ 1653  sort fruit.txt
+ 1654  sort fruit.txt | uniq
+ 1655  clear
+ 1656  who
+ 1657  who | wc
+ 1658  sort fruit.txt | wc
+ 1659  echo "Hello Desd"
+ 1660  echo "Hello Desd" | tr " " "#"
+ 1661  echo "Hello Desd" | tr "e " "$"
+ 1662  echo "Hello----Desd" | tr -s "-"
+ 1663  echo "Hello----Desd" | tr -d "-"
+ 1664  clear
+ 1665  echo "Hello----Desd" | tr -t "-" "k"
+ 1666  echo "Hello----Desd" | tr -t "a-z" "A-Z"
+ 1667  echo "Hello Desd" | tr -t "a-zA-Z" "A-Za-z"
+ 1668  echo "C-programming MCPI DSA EOS RTOS" | cut -d  " " -f1
+ 1669  echo "C-programming MCPI DSA EOS RTOS" | cut -d  " " -f2
+ 1670  echo "C-programming MCPI DSA EOS RTOS" | cut -d  " " -f1,2,3
+ 1671  echo "C-programming" | cut -c 1
+ 1672  echo "C-programming" | cut -c 2
+ 1673  echo "C-programming" | cut -c 2,3
+ 1674  history
+ 1675  history > 21oct.txt
+ 1676  cat 21oct.txt
+ 1677  mkdir os_assignment
+ 1678  git clone "https://github.com/sunbeam-desd-aug24/eos.git"
+ 1679  git clone "https://github.com/Karishma-Ghadge/E2_EOS_87218_Karishma_Ghadge.git"
+ 1680  mkdir linux_cmds
+ 1681  ls
+ 1682  cd linux_cmds
+ 1683  git add .
+ 1684  git commit -m "Assignment1 commands completed"
+ 1685  git push
+ 1686  man uname
+ 1687  man dir
+ 1688  man tac
+ 1689  ls
+ 1690  man
+ 1691  man bc
+ 1692  man ls
+ 1693  uname
+ 1694  pwd
+ 1695  hostname
+ 1696  date
+ 1697  cal
+ 1698  sudo apt install ncal
+ 1699  cal
+ 1700  ls
+ 1701  dir
+ 1702  man uname
+ 1703  uname -a
+ 1704  uname -s
+ 1705  uname -r
+ 1706  uname -n
+ 1707  uname -m
+ 1708  uname -0
+ 1709  uname -o
+ 1710  dir -a
+ 1711  cat os.txt
+ 1712  touch os.txt
+ 1713  cat os.txt
+ 1714  cat > os.txt
+ 1715  cat >>os.txt
+ 1716  cp os.txt os1.txt
+ 1717  cat os1.txt
+ 1718  cp linux_cmds linux_cmds_sample
+ 1719  cd ..
+ 1720  cp linux_cmds linux_cmds_sample
+ 1721  cp -r linux_cmds linux_cmds_sample
+ 1722  ls
+ 1723  cd linux_cmds
+ 1724  mv os1.txt linux_cmds_sample
+ 1725  cd ..
+ 1726  cd linux_cmds_sample
+ 1727  ls
+ 1728  mv os1.txt commands.txt
+ 1729  touch sample.txt
+ 1730  cat > sample.txt
+ 1731  tac sample.txt
+ 1732  tac -b sample.txt
+ 1733  rev sample.txt
+ 1734  wc sample.txt
+ 1735  mkdir cmds
+ 1736  cd .
+ 1737  cd ..
+ 1738  ls
+ 1739  mkdir cmds
+ 1740  ls
+ 1741  rm cmds
+ 1742  rmdir cmds
+ 1743  cd linux_cmds_sample
+ 1744  touch one two three
+ 1745  touch .one
+ 1746  touch .one.txt
+ 1747  ls
+ 1748  ls -l
+ 1749  touch .one.txt
+ 1750  ls -l
+ 1751  ls -l -a
+ 1752  touch .one.txt
+ 1753  ls -l -a
+ 1754  ls
+ 1755  touch animals.txt
+ 1756  cat > animals.txt
+ 1757  cat animals.txt
+ 1758  sort animals.txt
+ 1759  uniq animals.txt
+ 1760  head animals.txt
+ 1761  head -2 animals.txt
+ 1762  tail animals.txt
+ 1763  tail -3 animals.txt
+ 1764  factor 5
+ 1765  factor 24
+ 1766  factor 120
+ 1767  alias list= 'ls'
+ 1768  list
+ 1769  alias list
+ 1770  ls
+ 1771  list
+ 1772  alias -p
+ 1773  alias l
+ 1774  alias la
+ 1775  alias list='ls'
+ 1776  list
+ 1777  unalias list
+ 1778  list
+ 1779  echo
+ 1780  echo -n "Hello EOS"
+ 1781  echo "Hello \bEOS"
+ 1782  echo -e "Hello \bEOS"
+ 1783  echo -e "Hello \tEOS"
+ 1784  ps
+ 1785  kill
+ 1786  env
+ 1787  history > linux_cmds_assignment1.txt
+ 1788  cat linux_cmds_assignment1.txt
+ 1789  man ls
+ 1790  ls -t
+ 1791  ls
+ 1792  man ls
+ 1793  ls -s
+ 1794  man ls
+ 1795  ls -i
+ 1796  ls *
+ 1797  touch details.txt
+ 1798  cat > details.txt
+ 1799  cat details.txt
+ 1800  cat >> details.txt
+ 1801  cat details.txt
+ 1802  man touch
+ 1803  touch -a details.txt
+ 1804  stat details.txt
+ 1805  mkdir one
+ 1806  cd one
+ 1807  touch 1.txt 11.txt 111.txt
+ 1808  mkdir two
+ 1809  cd two
+ 1810  touch 2.txt 22.txt 222.txt
+ 1811  mkdir three
+ 1812  cd three
+ 1813  touch 3.txt 33.txt 33.txt
+ 1814  mkdir four
+ 1815  cd four
+ 1816  touch 4.txt 44.txt 444.txt
+ 1817  mkdir five
+ 1818  cd five
+ 1819  touch 5.txt 55.txt 555.txt
+ 1820  cd ~
+ 1821  ls
+ 1822  ls five
+ 1823  ls -a
+ 1824  ls ~
+ 1825  man ls
+ 1826  list the directory contents of directory named
+ 1827  "five" from current directory (i.e. home directory).
+ 1828  ls Home/EOS/os_classwork/one/two/three/four/five
+ 1829  ls
+ 1830  cd EOS
+ 1831  ls
+ 1832  cd os_classwork
+ 1833  ls
+ 1834  cd one
+ 1835  ls
+ 1836  cd two
+ 1837  ls
+ 1838  cd three
+ 1839  ls
+ 1840  cd four
+ 1841  ls
+ 1842  cd five
+ 1843  ls
+ 1844  cd ..
+ 1845  cat > 44.txt
+ 1846  cat 44.txt
+ 1847  ls
+ 1848  cd five
+ 1849  rm 555.txt
+ 1850  cd ..
+ 1851  ls
+ 1852  cat > 3.txt
+ 1853  cat 3.txt
+ 1854  cd ..
+ 1855  ls
+ 1856  rm 222.txt
+ 1857  cd .
+ 1858  cd ..
+ 1859  ls
+ 1860  rmdir -r five
+ 1861  rmdir five
+ 1862  man rmdir
+ 1863  rm -r five
+ 1864  rm -rf two/three/four/five
+ 1865  ls
+ 1866  cd two
+ 1867  ls
+ 1868  cd three
+ 1869  ls
+ 1870  cd four
+ 1871  ls
+ 1872  cd ..
+ 1873  rm -rf three/four
+ 1874  ls
+ 1875  cd ..
+ 1876  rm -rf two/three/four
+ 1877  ls
+ 1878  cd two
+ 1879  cd three
+ 1880  ls
+ 1881  cd ~
+ 1882  cd /
+ 1883  cd one
+ 1884  cd EOS
+ 1885  ls
+ 1886  cd ~
+ 1887  ls
+ 1888  cd EOS
+ 1889  ls
+ 1890  cd eos
+ 1891  ls
+ 1892  cd ..
+ 1893  cd os_classwork
+ 1894  ls
+ 1895  cd one
+ 1896  cd two
+ 1897  cd three
+ 1898  touch -t 3.txt
+ 1899  ls
+ 1900  touch -t /3.txt
+ 1901  touch 3.txt
+ 1902  ls
+ 1903  history >assignment2.txt
+ 1904  git add .
+ 1905  git commit -m "Assignment2 completed"
+ 1906  git push
+ 1907  git pull
+ 1908  cat > txt.txt
+ 1909  rm txt.txt
+ 1910  cat >txt.txt
+ 1911  grep "is" txt.txt
+ 1912  grep -n "is" txt.txt
+ 1913  grep -v "is" txt.txt
+ 1914  grep "Is" txt.txt
+ 1915  grep "IS" txt.txt
+ 1916  grep -i "IS" txt.txt
+ 1917  grep -w "is" txt.txt
+ 1918  grep -w "good" txt.txt
+ 1919  grep -c "is" txt.txt
+ 1920  grep "is$" txt.txt
+ 1921  grep "es$" txt.txt
+ 1922  cat >> txt.txt
+ 1923  cat txt.txt
+ 1924  grep "is$" txt.txt
+ 1925  grep "^is" txt.txt
+ 1926  grep "^th" txt.txt
+ 1927  cat > demo.txt
+ 1928  grep "d.c" demo.txt
+ 1929  grep "b.g" demo.txt
+ 1930  grep "b[a]g" demo.txt
+ 1931  grep "b[aio]g" demo.txt
+ 1932  grep "b[aie]g" demo.txt
+ 1933  grep "b[a-z]g" demo.txt
+ 1934  grep "b[A-Z]g" demo.txt
+ 1935  grep "b[^A-Z]g" demo.txt
+ 1936  grep "b[*]g" demo.txt
+ 1937  grep "b*g" demo.txt
+ 1938  grep "b\*g" demo.txt
+ 1939  fgrep "b*g" demo.txt
+ 1940  clear
+ 1941  cat > pattern.txt
+ 1942  cat pattern.txt
+ 1943  cat > pattern.txt
+ 1944  grep "bi*g" pattern.txt
+ 1945  grep "bi?g" pattern.txt
+ 1946  egrep "bi?g" pattern.txt
+ 1947  cat >> pattern.txt
+ 1948  egrep "bi?g" pattern.txt
+ 1949  egrep -n "bi?g" pattern.txt
+ 1950  egrep "bi+g" pattern.txt
+ 1951  grep -E"bi+g" pattern.txt
+ 1952  grep -E "bi+g" pattern.txt
+ 1953  egrep -n "bi{2}g" pattern.txt
+ 1954  egrep -n "bi{,3}g" pattern.txt
+ 1955  egrep -n "bi{3,}g" pattern.txt
+ 1956  egrep -n "bi{3,5}g" pattern.txt
+ 1957  egrep -n "bi$g" pattern.txt
+ 1958  egrep -n "b(i){2,4}g" pattern.txt
+ 1959  cat txt.txt
+ 1960  egrep -n "(but|is)" txt.txt
+ 1961  egrep -n "(but|is|good)" txt.txt
+ 1962  history > grep_cmds.txt
+ 1963  man ls
+ 1964  touch .hidden.txt
+ 1965  ls -a
+ 1966  mkdir day2
+ 1967  cat > demo.txt
+ 1968  rename *.txt *.htm
+ 1969  ls
+ 1970  cd day2
+ 1971  ls
+ 1972  cat >demo2.txt
+ 1973  rename *.txt *.htm
+ 1974  rename demo2.txt demo3.htm
+ 1975  man rename
+ 1976  touch de.txt
+ 1977  rename *.txt *.htm
+ 1978  rm demo2.txt
+ 1979  rename *.txt *.htm
+ 1980  rename de.txt de.htm
+ 1981  ln -s 
+ 1982  ln -s de.txt
+ 1983  ln -s de1.txt
+ 1984  ls
+ 1985  man ln
+ 1986  ln -s de.txt de1.txt
+ 1987  man ln
+ 1988  ln de1.txt
+ 1989  stat de1.txt
+ 1990  touch de1.txt
+ 1991  touch de.txt
+ 1992  touch empty.txt
+ 1993  touch sample.txt
+ 1994  cat > sample.txt
+ 1995  tail sample.txt
+ 1996  tail -2 sample.txt
+ 1997  init 0,poweroff
+ 1998  init 0
+ 1999  history
+ 2000  whoami
+ 2001  tty
+ 2002  who am i
+ 2003  users
+ 2004  who
+ 2005  man grep
+ 2006  rename de1.txt
+ 2007  rename de1.txt d1.htm
+ 2008  rename de1.txt de2.txt
+ 2009  rename de1.txt
+ 2010  ls
+ 2011  rename err.txt fruit.txt demo.txt 
+ 2012  rename num*.txt *.htm
+ 2013  rename num*.txt num*.htm
+ 2014  ls
+ 2015  cd day2
+ 2016  ls
+ 2017  grep sample.txt
+ 2018  grep "en" sample.txt
+ 2019  grep -n "en" sample.txt
+ 2020  grep -v "en" sample.txt
+ 2021  grep -i "EN" sample.txt
+ 2022  grep -w "en" sample.txt
+ 2023  grep -c "en" sample.txt
+ 2024  grep "en$" sample.txt
+ 2025  grep "e$" sample.txt
+ 2026  grep "^e" sample.txt
+ 2027  grep "^t" sample.txt
+ 2028  cat > new.txt
+ 2029  grep ".at" sample.txt
+ 2030  grep ".at" new.txt
+ 2031  grep "[c]at" new.txt
+ 2032  grep "[bsrmhf]at" new.txt
+ 2033  grep "[a-z]at" new.txt
+ 2034  grep "[A-Z]at" new.txt
+ 2035  grep "^[A-Z]at" new.txt
+ 2036  grep "[*]at" new.txt
+ 2037  grep "*at" new.txt
+ 2038  fgrep "*at" new.txt
+ 2039  egrep -n "?at" new.txt
+ 2040  egrep -n "+at" new.txt
+ 2041  egrep -E-n "+at" new.txt
+ 2042  grep -E -n "+at" new.txt
+ 2043  egrep -n "{,2}at" new.txt
+ 2044  egrep -n "(cat | hat)" new.txt
+ 2045  cat > new1.txt
+ 2046  egrep -n "(sweet | sour)" new1.txt
+ 2047  wc > new1.txt op.txt
+ 2048  wc new1.txt > op.txt
+ 2049  cat op.txt
+ 2050  cat new1.txt
+ 2051  cat > new1.txt
+ 2052  wc new1.txt >op.txt
+ 2053  cat op.txt
+ 2054  who | wc >op1.txt
+ 2055  cat op1.txt
+ 2056  head | tail >op1.txt
+ 2057  head | tail >op.txt
+ 2058  cat op.txt
+ 2059  head new.txt | tail new.txt
+ 2060  sort new.txt | uniq new.txt
+ 2061  who | grep "tty"
+ 2062  who | grep "^tty"
+ 2063  man ls
+ 2064  ls -s
+ 2065  ls | grep -c
+ 2066  man grep
+ 2067  ls -l |grep -c
+ 2068  ls -1 | grep -c
+ 2069  man grep
+ 2070  cut -c new.txt
+ 2071  "cut -b 1,2,3 new.txt
+ 2072  cut -b 1,2,3 new.txt
+ 2073  cut -c 2,3 new.txt
+ 2074  tr new.txt
+ 2075  man tr
+ 2076  tr [:lower:] new.txt
+ 2077  cat new.txt | tr [a-z] [A-Z]
+ 2078  ls -a | grep
+ 2079  cat new1.txt | tr[a-z] [A-Z]
+ 2080  cat new1.txt | tr [a-z] [A-Z]
+ 2081  history >assignment3.txt
