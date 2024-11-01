@@ -12,7 +12,7 @@ then
 	exit 1
 fi
 
-while IFS=read -r line
+while IFS= read -r line
 do
 	echo "$line" | tr '[:lower:][:upper:]' '[:upper:][:lower:]' >> "$file2"
 	done <"$file1"
